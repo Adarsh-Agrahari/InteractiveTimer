@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timer</string>
+
+    <string name="timer_hour">Hour</string>
+    <string name="timer_minute">Minute</string>
+    <string name="timer_second">Second</string>
+
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+
+    <string name="message_times_up">Time\'s up!</string>
+</resources>
